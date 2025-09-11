@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "A little bit about myself"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
