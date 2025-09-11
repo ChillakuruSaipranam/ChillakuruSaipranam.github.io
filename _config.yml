@@ -26,10 +26,10 @@ author:
   avatar           : "jay.png"
   name             : "JAY"
   pronouns         : # example: "she/her"  
-  bio              : "PRofessor at Indiana University"
+  bio              : "Professor at Indiana University"
   location         : "Indiana, USA"
   employer         : "Indiana University"
-  uri              : # URL
+  cv               :  URL
   email            : "jaipark@iu.edu" 
 
   # Academic websites
